@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). 
 
 ## Table of contents
 
@@ -14,27 +14,20 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+This is my submission of the NFT preview card component challenge. Within this challenge I tried to match the criteria as closely as possible. Using w3school resources listed below, I was able to complete this challenge to match the requirements as closely as possible. 
 
 ### Screenshot
 
-![](./nft-preview-card-component-main/images/Screenshot - Frontend Mentor NFT preview card component.png)
+![](https://github.com/Danielle73/NFT-preview-card-component-solution/blob/main/Screenshot%20-%20Frontend%20Mentor%20NFT%20preview%20card%20component.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Danielle73/NFT-preview-card-component-solution)
+- Live Site URL: [Github](https://github.com/Danielle73/NFT-preview-card-component-solution)
 
 ## My process
 
@@ -42,10 +35,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
