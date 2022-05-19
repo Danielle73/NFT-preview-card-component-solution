@@ -27,7 +27,7 @@ This is my submission of the NFT preview card component challenge. Within this c
 ### Links
 
 - Solution URL: [Github](https://github.com/Danielle73/NFT-preview-card-component-solution)
-- Live Site URL: [Github](https://github.com/Danielle73/NFT-preview-card-component-solution)
+- Live Site URL: [vercel](https://nft-preview-card-component-solution-sigma.vercel.app/)
 
 ## My process
 
