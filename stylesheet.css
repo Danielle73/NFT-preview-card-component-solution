@@ -1,0 +1,152 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    margin: 100px;
+    background-color: hsl(217, 54%, 11%);
+}
+
+h1 {
+    color: white;
+    font-size: 1.5rem;
+    text-align: left;
+    margin: 20px 20px 5px 20px;
+}
+
+h1:hover{
+    color:hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
+
+p {
+    color: hsl(215, 51%, 70%);
+    display: inline-block;
+    margin-left: 20px;
+    text-align: left; 
+}
+
+.intro{
+    color:hsl(215, 51%, 70%);
+    margin-left: 20px;
+    text-align: left;
+}
+
+.eth{
+    color: hsl(178, 100%, 50%);
+    margin-left: 0px;
+    margin-right: 55px;
+}
+
+
+.clock {
+    color: hsl(215, 51%, 70%);
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column wrap; 
+}
+
+.card{
+    box-shadow: 15px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    height:auto;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color:  hsl(216, 50%, 16%);
+  }
+
+
+.equilibrium-img{ 
+    height:auto;
+    width: 100%;
+    max-width: 270px;
+    margin-top: 15px;
+    border-radius: 15px;
+} 
+
+/* IMAGE OVERLAY */
+
+.img-container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+  }
+
+.overlay {
+    position: absolute;
+    top: 15px;
+    bottom: 5px;
+    left: 15px;
+    right: 15px;
+    height: auto;
+    width: 100%;
+    max-width: 270px;
+    border-radius: 15px;
+    opacity: 0;
+    transition: .3s ease;
+    background-color: rgba(0, 255, 255,0.6)
+  }
+
+.img-container:hover .overlay {
+    opacity: 1;
+  }
+
+.hover-eye-icon{
+    color: white;
+    cursor: pointer;
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+
+hr {
+    background-color:hsl(215, 32%, 27%);
+    color:hsl(215, 32%, 27%);
+    width: 85%;
+}
+
+.profile-img{
+    border: white solid 2px;
+    border-radius: 100px;
+    float: left;
+    height:auto;
+    width: 30px;
+    margin: 10px 10px 20px 20px;
+} 
+
+.creator{
+    font-size: 15px;
+    text-align: center;
+    margin-left: -60px;
+}
+
+
+.creator a {
+    text-decoration: none;
+    color: white;
+}
+
+.Jules:hover{
+    color: hsl(178, 100%, 50%);
+}
+
+.attribution {
+    margin-top: 25px;
+    font-size: 11px; 
+    text-align: center;
+    color: grey;
+   }
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
